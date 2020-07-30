@@ -1,0 +1,2 @@
+rootProject.name='JHook'
+include ':app'
